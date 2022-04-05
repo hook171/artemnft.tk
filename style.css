@@ -1,0 +1,114 @@
+*{
+padding: 0;
+margin: 0;
+}
+
+
+.logo{
+    float: left;
+    width: 78%;
+    font-size: 40px;
+    margin: auto     5px;
+    font-family: Arial;
+    font-weight: 700;
+    color: #DC143C;
+}
+
+
+body {
+    background: url(wpapers.jpg);
+    font-family: Tahoma;
+    line-height: 1.5;
+}
+
+.head{
+    background: white;
+    border: 5px solid blue;
+}
+
+.title{
+    font-size: 30px;
+    color: #DC143C;
+    text-align: center;
+    text-shadow: 0 1px 2px black;
+}
+.title2{
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    text-shadow: 0 1px 5px black;
+}
+.description{
+    font-size: 17px;
+    color: white;
+    text-align: center;
+    text-shadow: 0 1px 4px black;
+    margin: 20px 100px;
+    font-family: Arial;
+}
+.flag{
+   display: inline-block;
+}
+.flag1{
+    width: 300px;
+    margin: 30px auto;
+    height: 300px;
+}
+
+.card1{
+    width: 300px;
+    margin: 30px auto;
+    height: 300px;
+    box-shadow: 0 5px 10px black;
+    display: inline-block;
+}
+
+.card2{
+    width: 300px;
+    margin: 30px auto;
+    height: 300px;
+    box-shadow: 0 5px 10px black;
+    display: inline-block;
+}
+
+.card3{
+    width: 300px;
+    margin: 30px auto;
+    height: 300px;
+    box-shadow: 0 5px 10px black;
+    display: inline-block;
+}
+.card4{
+    width: 300px;
+    margin: 30px auto;
+    height: 300px;
+    box-shadow: 0 5px 10px black;
+    display: inline-block;
+}
+.photo{
+    width: 300px;
+    height: 300px; 
+}
+.photos{
+    text-align: center; 
+}
+.button {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    float: right;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 5px 2px;
+    cursor: pointer;
+    font-family: Arial;
+    text-shadow: 0 1px 5px black;
+    box-shadow: 0 1px 5px black;
+    
+}
+
+.music{
+     
+}
